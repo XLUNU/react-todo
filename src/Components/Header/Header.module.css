@@ -1,0 +1,9 @@
+.mane {
+    background: #eaeaec;
+    font-size: 24px;
+    height: 80px;
+    color: #483233;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

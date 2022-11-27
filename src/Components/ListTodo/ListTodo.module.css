@@ -1,0 +1,25 @@
+.input {
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin: 15px 10px 10px 0;
+}
+
+.listItems {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+    padding: 5px;
+}
+
+.listItems:hover {
+    background: #eaeaec;
+    border-radius: 6px;
+    
+}
+
+.close {
+    color: gray;
+    text-decoration: line-through;
+}
